@@ -1,0 +1,290 @@
+---
+title: "Leonardo Volpato's resume"
+author: Leonardo Volpato
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - override.css
+      - resume
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> volpato1@msu.edu
+- <i class="fa fa-phone"></i> +1 517-505-8582
+- <i class="fa fa-home"></i> 1826 Hamilton Rd Apt A9, Okemos, MI - USA
+- <i class="fa fa-github"></i> [github.com/volpatoo](https://github.com/volpatoo)
+- <i class="fa fa-linkedin"></i> [linkedin.com/LV](https://www.linkedin.com/in/leonardo-volpato/)
+- <i class="fa fa-file"></i> [cnpq.com/LV](http://lattes.cnpq.br/1956944342787458)
+- <i class="fa fa-id-badge"></i> [orcid.org/LV](https://orcid.org/0000-0003-1119-0615)
+
+
+
+Statistical software{#skills1}
+--------------------------------------------------------------------------------
+R, Python, and GIS tools.
+
+
+Experienced areas{#skills2}
+--------------------------------------------------------------------------------
+
+Statistical and bioinformatics analysis, mixed models, GxE interaction, Genotyping and Phenotyping.
+
+
+Research strenghths{#skills3}
+--------------------------------------------------------------------------------
+
+Full experience with remote sensing analysis, drone imagery use and HTP pipelines, Genomic selection and Multi-trait multi-environment models.
+
+
+Main
+================================================================================
+
+Leonardo Volpato {#title}
+--------------------------------------------------------------------------------
+### Postdoctoral Research Associate 
+Michigan State University - East Lansing, MI. <br />
+February 2021 to present
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+### Instituto Federal do Triângulo Mineiro - IFTM
+
+T.E. in Technical Course in Agriculture
+
+Uberlandia, Brazil
+
+2009
+
+
+### Federal University of Viçosa - UFV
+
+B.S. in Agronomy
+
+Viçosa, Brazil
+
+2014
+
+
+### Federal University of Viçosa - UFV
+
+M.S. in Plant Breeding
+
+Viçosa, Brazil
+
+2016
+
+Thesis: Selection of soybean progeny for grain yield with the use of mixed models
+
+
+### Federal University of Viçosa - UFV
+
+Ph. D. in Plant Breeding
+
+Viçosa, Brazil
+
+2020
+
+Thesis: High-throughput phenotyping for soybean plant maturity date and wheat plant height using unmanned aerial system
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Visiting Student
+
+International Maize and Wheat Improvement Center - CIMMYT
+
+Mexico City, Mexico
+
+2018 - 2019
+
+- Supported the entire remote sensing components of wheat and maize plant breeding trials.
+- Performed drone imagery and software analyses.
+- Conducted missions and collected data for HTP using Unmanned Aerial System (UAS).
+- Pipeline developed for measuring agronomic trait such as plant height, biomass, lodging and biologic stress using UAS.
+
+
+### Visiting Research Scholar
+
+University Of Minnesota
+
+Minneapolis, USA
+
+2019 - 2020
+
+- Applied remote sensing approaches in the soybean variety development pipeline.
+- Conducted field data analyses using drone imagery.
+- Worked collaboratively with other graduate students and technicians.
+- Pipeline implemented in R to estimate plant maturity date using HTP/UAS methods
+
+### Intern
+
+Federal University of Viçosa - UFV
+
+Viçosa, Brazil
+
+2010 - 2014
+
+::: concise
+- Resistance of Spodoptera frugiperda (Lepidoptera: Noctuidae) to proteins from
+*Bacillus thuringiensis* 
+- Evaluation of tropical maize (*Zea mays* L.) lines fornitrogen use efficiency
+- Selection within andbetween families of ornamental pepper (*Capsicum* spp.)
+:::
+
+Professional/Academic Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### AgroPlan-UFV - Junior Enterprise Agronomy
+
+Federal University of Viçosa - UFV
+
+Viçosa, Brazil
+
+2011 - 2012
+
+
+### Teaching assistant in Agriculture Entomology
+
+Federal University of Viçosa - UFV
+
+Viçosa, Brazil
+
+2013 - 2014
+
+### Regulation of seeds and seedlings, Intern 
+
+Federal Agriculture, Livestock and Supply - MAPA
+
+Viçosa, Brazil
+
+2014
+
+
+### Academic group coordinator 
+
+GenMelhor-UFV - Study Group of Genetics and Breeding
+
+Viçosa, Brazil
+
+2015 2017
+
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Selection of inbred soybean progeny: an approach with population effect.
+
+Plant Breeding, v. 138, p. i-iv, 451-672.
+
+N/A
+
+2018 
+
+**Volpato, L.**; Simiqueli, G.F.; Alves, R.S.; Rocha, J. R. A. S. C.; Del Conte, M. V.; Resende, M. D. V.; Carneiro, P. C. S.; Silva, F. L. 
+
+
+### A. Multi-trait multi-environment models in the genetic selection of segregating soybean progeny.
+
+PLoS One, v. 14, p. e0215315.
+
+N/A
+
+2019 
+
+**Volpato, L**; Alves, R.S.; Teodoro, P.E.; Resende, V. M. D.; Nascimento, M.; Nascimento, A. C. C.; Ludke, W.H.; Lopes, S. F.
+
+
+### SNP markers associated with soybean partial resistance to Phytophthora sojae.
+
+Crop Breeding and Applied Biotechnology, v. 19, p. 31-39
+
+N/A
+
+2019 
+
+Ludke, W. H.; Schuster, I.; Nora, T. D.; Oliveira, A. B.; Soares, B. A.; **Volpato, L.**; Silva, F. L.
+
+
+### Inference of population effect and progeny selection via a multi-trait index in soybean breeding.
+
+Acta Scientiarum. Agronomy, v. 43, p. 10.4025/actasci
+
+N/A
+
+2020 
+
+**Volpato, L.**; Rocha, J. R. A. S. C.; Alves, R. S.; Ludke, W. H.; Oliveira, A. B.; Silva, F. L.
+
+
+### High Throughput Field Phenotyping for Plant Height Using UAV-Based RGB Imagery in Wheat Breeding Lines: Feasibility and Validation.
+
+Frontiers in Plant Science, v. 12, p. 591587
+
+N/A
+
+2021 
+
+**Volpato, L.**; Pinto, F.; González-Pérez, L. ; Thompson, I. G. ; Borem, A.; Reynolds, M.; Gérard, B.; Molero, G.; Rodrigues, F. A.
+
+
+### High Throughput Field Phenotyping for Plant Height Using UAV-Based RGB Imagery in Wheat Breeding Lines: Feasibility and Validation.
+
+The Plant Phenome J.,10.1002/ppj2.20018
+
+N/A
+
+2021 
+
+**Volpato, L.**; Dobbels. A.; Borem, A,; Lorenz, A. J.
+
+
+### Genomic selection with rapid cycling: Current insights and future prospects.
+
+Crop Breeding and Applied Biotechnology. 21(S): e394721S14
+
+N/A
+
+2021 
+
+**Volpato, L.**; Bernardeli, A.; Gomez, F.
+
+
+
+Language {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Portuguese
+
+Native
+
+N/A
+
+N/A 
+
+### English
+
+Fluent
+
+N/A
+
+N/A 
+ 
+### Spanish
+
+Working knowledge
+
+N/A
+
+N/A 
